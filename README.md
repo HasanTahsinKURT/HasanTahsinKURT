@@ -1,7 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%2C+There+!+%F0%9F%91%8B;This+is+HASAN+KURT...;Nice+to+meet+you+!)](https://git.io/typing-svg)
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <a href="https://bimasha.com/">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### <div align="center">I am studying software engineering at Ataturk University. I want to be full stack developer.I am very interesting learning code languages. I am trying to daily design the web sites and I share on my github profile please look up because I know you could love my design. Thanks for everything.</div>  
   
